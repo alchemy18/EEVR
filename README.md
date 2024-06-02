@@ -5,6 +5,10 @@ EEVR (Emotion Elicitation in Virtual Reality) is a novel dataset specifically de
 More details about EEVR can be found on our website: https://melangelabiiitd.github.io/EEVR/.
 To download EEVR, please visit our website.
 
+# Citation
+
+EEVR is under peer-review. Citations would be available soon.
+
 # License
 
 This code is released under the MIT license. Please see the license file for details.
