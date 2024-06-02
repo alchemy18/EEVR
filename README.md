@@ -7,7 +7,7 @@ To download EEVR, please visit our website.
 
 # Citation
 
-EEVR is under peer-review. Citations would be available soon.
+EEVR is under peer-review. Citation would be available soon.
 
 # License
 
