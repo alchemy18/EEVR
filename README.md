@@ -12,3 +12,7 @@ EEVR is under peer-review. Citation would be available soon.
 # License
 
 This code is released under the MIT license. Please see the license file for details.
+
+# Setting Up environment
+
+pip install -r requirements.txt
