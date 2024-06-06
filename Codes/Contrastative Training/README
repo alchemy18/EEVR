@@ -1,6 +1,6 @@
 All Contrastive baseline are presented here.
 
-We have used the mentioned GitHub repository for the implementation of our similar code for signal features. 
+We have used the mentioned GitHub repository for the implementation of our code. 
 
 @software{Shariatnia_Simple_CLIP_2021,
 author = {Shariatnia, M. Moein},
