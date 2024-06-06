@@ -322,7 +322,7 @@ def train_epoch(model, train_loader, optimizer, lr_scheduler, step, device=torch
 def main():
 
     # Read PPG CSV
-    ppg_path = "/mnt/drive/home/pragyas/Pragya/Dataset/dataset/LAB/EEVR_Dataset/Pragya/PPG_labels.csv"
+    ppg_path = "../Data_files/PPG_labels.csv"
     ppg_df = csv_read(ppg_path)
 
     # HandCrafted features -> Input for the MLP based Contrastaive Learning Model
@@ -340,7 +340,7 @@ def main():
     ppg_df  = ppg_df[ppg_df['CMA'] != 'Baseline']
 
     # Reading Text File for adding Text modality to the Data
-    text_file = '/mnt/drive/home/pragyas/Pragya/Dataset/dataset/LAB/EEVR_Dataset/Ankush Code/Data/Text/Textdata.csv'
+    text_file = '../Data_files/Textdata.csv'
     text_data = pd.read_csv(text_file)
     text_data = preprcosess(text_data)
 
