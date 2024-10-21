@@ -1,0 +1,2 @@
+All codes for checking  generalization capabilities of our pre-trained CLSP models across datasets collected in varied environments, 
+using zero shot classification [Emognition,  WESAD & Nurse (for NeurIPS D&B Track)] are available here. 
