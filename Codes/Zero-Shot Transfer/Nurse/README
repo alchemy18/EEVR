@@ -1,0 +1,17 @@
+The Arousal Valence Mapping on the labels of the Nurse dataset:
+
+a) Arousal of the emotion: '1' is for high arousal and '0' is for low arousal. 
+    nurse['label'] == 0: 0 (No Stress) 
+    nurse['label'] == 1: 0 (Medium Stress) 
+    nurse['label'] == 2: 1 (High Stress) 
+
+b) valence of the emotion: '1' is for positive emotion (high valence) and '0' is for negative|neutral emotion (low valence)
+    nurse['label'] == 0: 1 (No Stress) 
+    nurse['label'] == 1: 0 (Medium Stress) 
+    nurse['label'] == 2: 0 (High Stress) 
+
+Link for the Nurse dataset: https://www.nature.com/articles/s41597-022-01361-y
+
+Bibtex: Seyedmajid Hosseini, Raju Gottumukkala, Satya Katragadda, Ravi Teja Bhupatiraju, Ziad Ashkar,
+Christoph W Borst, and Kenneth Cochran. 2022. A multimodal sensor dataset for continuous
+stress detection of nurses in a hospital. Scientific Data 9, 1 (2022), 255
