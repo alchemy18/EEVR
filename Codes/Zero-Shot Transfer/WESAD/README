@@ -1,0 +1,29 @@
+The Arousal Valence Mapping on the labels of the WESAD dataset:
+
+a) Arousal of the emotion: '1' is for high arousal and '0' is for low arousal. 
+    wesad['label'] == 0: -1 (not useful as it is not defined) 
+    wesad['label'] == 1: 0  (baseline) 
+    wesad['label'] == 2: 1  (stress) 
+    wesad['label'] == 3: 0  (amusement) 
+    wesad['label'] == 4: 1  (meditation) 
+    wesad['label'] == 5: -1 (not useful) 
+    wesad['label'] == 6: -1 (not useful) 
+    wesad['label'] == 7: -1 (not useful) 
+
+b) valence of the emotion: '1' is for positive emotion (high valence) and '0' is for negative|neutral emotion (low valence)
+    wesad['label'] == 0: -1 (not useful as it is not defined) 
+    wesad['label'] == 1: 0  (baseline) 
+    wesad['label'] == 2: 0  (stress) 
+    wesad['label'] == 3: 1  (amusement) 
+    wesad['label'] == 4: 1  (meditation) 
+    wesad['label'] == 5: -1 (not useful) 
+    wesad['label'] == 6: -1 (not useful) 
+    wesad['label'] == 7: -1 (not useful) 
+
+Link for the Wesad dataset: https://dl.acm.org/doi/10.1145/3242969.3242985
+
+Bibtex: Philip Schmidt, Attila Reiss, Robert Duerichen, Claus Marberger, and Kristof Van Laerhoven.
+2018. Introducing WESAD, a Multimodal Dataset for Wearable Stress and Affect Detection. In
+Proceedings of the 20th ACM International Conference on Multimodal Interaction (ICMI ’18).
+Association for Computing Machinery, New York, NY, USA, 400–408. https://doi.org/10.
+1145/3242969.3242985
