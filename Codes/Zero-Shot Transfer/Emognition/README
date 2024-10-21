@@ -1,0 +1,37 @@
+The Arousal Valence Mapping on the labels of the Emognition dataset:
+
+a) Arousal of the emotion: '1' is for high arousal and '0' is for low arousal. 
+           'SADNESS' :0
+           'DISGUST':0
+           'AMUSEMENT' : 1
+           'BASELINE' : 0
+           'SURPRISE' : 1
+           'LIKING' : 0
+           'ANGER' : 1
+           'NEUTRAL' : 0
+           'ENTHUSIASM' : 1
+           'FEAR' : 1
+           'AWE' : 1
+
+b) valence of the emotion: '1' is for positive emotion (high valence) and '0' is for negative|neutral emotion (low valence)
+           'SADNESS' :0
+           'DISGUST':0 
+           'AMUSEMENT' : 1
+           'BASELINE' : 0 
+           'SURPRISE' : 0 
+           'LIKING' : 1
+           'ANGER' : 0 
+           'NEUTRAL' : 0 
+           'ENTHUSIASM' : 1 
+           'FEAR' : 0
+           'AWE' : 1
+
+
+Link for the Emognition Dataset: https://www.nature.com/articles/s41597-022-01262-0
+
+Bibtex: Stanisław Saganowski, Joanna Komoszy´nska, Maciej Behnke, Bartosz Perz, Dominika Kunc,
+Bartłomiej Klich, Łukasz D. Kaczmarek, and Przemysław Kazienko. 2022. Emognition dataset:
+emotion recognition with self-reports, facial expressions, and physiology using wearables. Scientific
+Data 9, 1 (April 2022), 158. https://doi.org/10.1038/s41597-022-01262-0 Publisher:
+Nature Publishing Group.
+
