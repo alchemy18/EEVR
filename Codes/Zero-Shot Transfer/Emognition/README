@@ -27,6 +27,8 @@ b) valence of the emotion: '1' is for positive emotion (high valence) and '0' is
            'AWE' : 1
 
 
+Note: We have used stimulus data for our experiments.
+
 Link for the Emognition Dataset: https://www.nature.com/articles/s41597-022-01262-0
 
 Bibtex: Stanisław Saganowski, Joanna Komoszy´nska, Maciej Behnke, Bartosz Perz, Dominika Kunc,
