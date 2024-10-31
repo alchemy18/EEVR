@@ -2,6 +2,8 @@
 
 EEVR (Emotion Elicitation in Virtual Reality) is a novel dataset specifically designed for language supervision-based pre-training and emotion recognition tasks, such as valence and arousal classification. 
 
+Link for pre-trained models: https://drive.google.com/drive/folders/1x36MLOGGu5yoOrqL7pCKSQUQSdcPqGSq?usp=sharing
+
 More details about EEVR can be found on our website: https://melangelabiiitd.github.io/EEVR/.
 To download EEVR, please visit our website.
 
