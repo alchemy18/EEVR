@@ -9,7 +9,18 @@ To download EEVR, please visit our website.
 
 # Citation
 
-EEVR is under peer-review. Citation would be available soon.
+EEVR is accepted at NeurIPS 2024 Dataset & Benchmarking Track. 
+Link for NeurIPS 2024 Event Page: https://nips.cc/virtual/2024/poster/97493
+
+BibTeX: 
+@inproceedings{
+singh2024eevr,
+title={{EEVR}: A Dataset of Paired Physiological Signals and Textual Descriptions for Joint Emotion Representation Learning},
+author={Pragya Singh and Ritvik Budhiraja and Ankush Gupta and Anshul Goswami and Mohan Kumar and Pushpendra Singh},
+booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+year={2024},
+url={https://openreview.net/forum?id=qgzdGyQcDt}
+}
 
 # License
 
